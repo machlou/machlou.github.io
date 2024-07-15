@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://machlou.github.io/sitemap
+Sitemap: https://machlou.github.io/app/sitemap
+Sitemap: https://machlou.github.io/assets/sitemap
+Sitemap: https://machlou.github.io/css/sitemap
+Sitemap: https://machlou.github.io/includes/sitemap
+Sitemap: https://machlou.github.io/item/sitemap
+Sitemap: https://machlou.github.io/src/sitemap
